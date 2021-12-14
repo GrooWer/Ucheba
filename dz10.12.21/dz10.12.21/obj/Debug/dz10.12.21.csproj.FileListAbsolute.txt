@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\bin\Debug\dz10.12.21.exe.config
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\bin\Debug\dz10.12.21.exe
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\bin\Debug\dz10.12.21.pdb
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\obj\Debug\dz10.12.21.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\obj\Debug\dz10._12._21.Form1.resources
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\obj\Debug\dz10._12._21.Properties.Resources.resources
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\obj\Debug\dz10.12.21.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\obj\Debug\dz10.12.21.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\obj\Debug\dz10.12.21.exe
+C:\Users\Александр\source\repos\dz10.12.21\dz10.12.21\obj\Debug\dz10.12.21.pdb
